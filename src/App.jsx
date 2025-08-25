@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 
 import Card from "./components/TodoCard";
 import Loader from "./components/Loader";
-const firebaseUrl='https://f1.firebasedatabase.app/'
+const firebaseUrl='your firebase key'
 
 
 
